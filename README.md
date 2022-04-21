@@ -1,11 +1,10 @@
 Proyecto Integrador Java 
 
-
 Integrantes: 
 Nahuel Buschittari
 Facundo Vivas
 Facundo Taborra
-Juan PONZI Pablo Hernandez
+Juan Pablo Hernandez
 
 
 
